@@ -41,7 +41,7 @@ git clone https://github.com/Sarvesh7617/BootStrap_E-commerce_Website.git
 cd BootStrap_E-commerce_Website
 ```
 3. Open index.html in a browser:
-4. ```bash
+```bash
 start index.html
 ```
 ## 🔎 Usage Guide  
