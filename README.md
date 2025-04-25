@@ -41,8 +41,9 @@ git clone https://github.com/Sarvesh7617/BootStrap_E-commerce_Website.git
 cd BootStrap_E-commerce_Website
 ```
 3. Open index.html in a browser:
+4. ```bash
 start index.html
-
+```
 ## 🔎 Usage Guide  
 **Browse different categories** like **T-shirts, Sarees, Watches, Shirts, Slippers, Shopping Cart, and Checkout**.  
 **Click on a product** to view **detailed descriptions & images**.  
