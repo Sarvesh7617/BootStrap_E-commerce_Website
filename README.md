@@ -1,6 +1,7 @@
 # 🛍 SMart | India Online Shop  
 
-SMart ek **modern E-commerce platform** hai jo multiple categories provide karta hai jaise **T-shirts, Sarees, Watches, Shirts, Slippers, Bodycon Dresses**, aur ek **Shopping Cart System** jo easy checkout allow karta hai. Yeh website **responsive UI design** aur **smooth navigation** ke saath **secure payment system** bhi offer karti hai.  
+**SMart is a modern E-commerce platform** that provides multiple categories like **T-shirts, Sarees, Watches, Shirts, Slippers, Bodycon Dresses, and a Shopping Cart System** for easy checkout.  
+This website offers **a responsive UI design, smooth navigation, and a secure payment system** to enhance the shopping experience.  
 
 ## Screenshot  
 ![UI Preview](https://private-user-images.githubusercontent.com/178065542/437562418-80ecfe2a-ab3b-407e-9a7d-25e39d6e377f.png?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3NDU2MDQ5NjgsIm5iZiI6MTc0NTYwNDY2OCwicGF0aCI6Ii8xNzgwNjU1NDIvNDM3NTYyNDE4LTgwZWNmZTJhLWFiM2ItNDA3ZS05YTdkLTI1ZTM5ZDZlMzc3Zi5wbmc_WC1BbXotQWxnb3JpdGhtPUFXUzQtSE1BQy1TSEEyNTYmWC1BbXotQ3JlZGVudGlhbD1BS0lBVkNPRFlMU0E1M1BRSzRaQSUyRjIwMjUwNDI1JTJGdXMtZWFzdC0xJTJGczMlMkZhd3M0X3JlcXVlc3QmWC1BbXotRGF0ZT0yMDI1MDQyNVQxODExMDhaJlgtQW16LUV4cGlyZXM9MzAwJlgtQW16LVNpZ25hdHVyZT03YTFlNzk1Yjg5MjM0MmRkYTNkOGE3ZTBiNzY2ODZjN2RkMWJiNDljZTRmZGQ1MzVhNjY0NmNkYjkyYjQ2NjRmJlgtQW16LVNpZ25lZEhlYWRlcnM9aG9zdCJ9.SXd0AiwKR3oXr_k13HKl6TsU72NXe_tGmyFbHv1slac)
